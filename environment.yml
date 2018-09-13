@@ -1,5 +1,14 @@
+channels:
+  - pyviz
+  - default
 dependencies:
   - bokeh
   - nbserverproxy
   - pandas
   - scipy
+  - holoviews
+  - param
+  - numba
+  - datashader
+  - pyviz
+
