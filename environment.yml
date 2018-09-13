@@ -3,7 +3,9 @@ channels:
   - default
 dependencies:
   - bokeh
+  - nomkl
   - nbserverproxy
   - param
   - numba
   - datashader
+  - panel
